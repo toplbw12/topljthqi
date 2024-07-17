@@ -1,2 +1,2 @@
 # topljthqi
-vpnss
+DNS
